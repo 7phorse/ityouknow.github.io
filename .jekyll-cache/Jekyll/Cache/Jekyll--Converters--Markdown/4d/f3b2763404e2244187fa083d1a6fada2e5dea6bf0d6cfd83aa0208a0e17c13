@@ -1,4 +1,4 @@
-I"<div class="row">
+I"<div class="row">
 
     <div class="col-md-12">
 
@@ -11,7 +11,7 @@
 
 
         <!-- Comments -->
-       <div class="comment">
+       <!-- <div class="comment">
          
 
   
@@ -19,9 +19,9 @@
     <div id="disqus_thread"></div>
     <script>
     var disqus_config = function () {
-        this.page.url = 'http://localhost:4000/python';
-        this.page.identifier = '/python';
-        this.page.title = 'Python 系列文章';
+        this.page.url = 'http://localhost:4000/it';
+        this.page.identifier = '/it';
+        this.page.title = '互联网那些事';
     };
     var disqus_loaded = false;
     $(function() {
@@ -54,7 +54,7 @@
         <script src="/assets/js/gitalk.min.js"></script>
         <script>
         var gitalk = new Gitalk({
-            id: '/python',
+            id: '/it',
             clientID: '',
             clientSecret: '',
             repo: '',
@@ -68,7 +68,7 @@
   
 
 
-       </div>
+       </div> -->
     </div>
 
 </div>

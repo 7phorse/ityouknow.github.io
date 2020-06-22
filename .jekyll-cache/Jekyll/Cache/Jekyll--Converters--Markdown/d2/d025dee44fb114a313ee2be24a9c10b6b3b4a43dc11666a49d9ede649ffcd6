@@ -1,4 +1,4 @@
-I"<div class="row">
+I"<div class="row">
 
     <div class="col-md-12">
 
@@ -11,7 +11,7 @@
 
 
         <!-- Comments -->
-       <div class="comment">
+       <!-- <div class="comment">
          
 
   
@@ -19,9 +19,9 @@
     <div id="disqus_thread"></div>
     <script>
     var disqus_config = function () {
-        this.page.url = 'http://localhost:4000/payment';
-        this.page.identifier = '/payment';
-        this.page.title = '支付系列文章';
+        this.page.url = 'http://localhost:4000/java';
+        this.page.identifier = '/java';
+        this.page.title = 'Java 技术';
     };
     var disqus_loaded = false;
     $(function() {
@@ -54,7 +54,7 @@
         <script src="/assets/js/gitalk.min.js"></script>
         <script>
         var gitalk = new Gitalk({
-            id: '/payment',
+            id: '/java',
             clientID: '',
             clientSecret: '',
             repo: '',
@@ -68,7 +68,7 @@
   
 
 
-       </div>
+       </div> -->
     </div>
 
 </div>

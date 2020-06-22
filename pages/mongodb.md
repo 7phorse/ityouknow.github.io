@@ -31,9 +31,9 @@ keywords: MongoDB,MongoDB 集群,部署,搭建,MongoDB 教程
         {% include pagination.html %}
 
         <!-- Comments -->
-       <div class="comment">
+       <!-- <div class="comment">
          {% include comments.html %}
-       </div>
+       </div> -->
     </div>
 
 </div>

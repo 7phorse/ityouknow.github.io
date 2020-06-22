@@ -30,9 +30,9 @@ permalink: /python
         {% include pagination.html %}
 
         <!-- Comments -->
-       <div class="comment">
+       <!-- <div class="comment">
          {% include comments.html %}
-       </div>
+       </div> -->
     </div>
 
 </div>

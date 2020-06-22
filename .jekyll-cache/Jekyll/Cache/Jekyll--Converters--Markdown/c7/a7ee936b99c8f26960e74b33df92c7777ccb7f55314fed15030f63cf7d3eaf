@@ -1,5 +1,4 @@
-I"
-<div class="row">
+I"!<div class="row">
 
     <div class="col-md-12">
 
@@ -12,7 +11,7 @@
 
 
         <!-- Comments -->
-       <div class="comment">
+       <!-- <div class="comment">
          
 
   
@@ -20,9 +19,9 @@
     <div id="disqus_thread"></div>
     <script>
     var disqus_config = function () {
-        this.page.url = 'http://localhost:4000/money';
-        this.page.identifier = '/money';
-        this.page.title = '知识星球';
+        this.page.url = 'http://localhost:4000/mongodb';
+        this.page.identifier = '/mongodb';
+        this.page.title = 'MongoDB 系列文章';
     };
     var disqus_loaded = false;
     $(function() {
@@ -55,7 +54,7 @@
         <script src="/assets/js/gitalk.min.js"></script>
         <script>
         var gitalk = new Gitalk({
-            id: '/money',
+            id: '/mongodb',
             clientID: '',
             clientSecret: '',
             repo: '',
@@ -69,7 +68,7 @@
   
 
 
-       </div>
+       </div> -->
     </div>
 
 </div>
